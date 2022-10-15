@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Practik\practik\practik\bin\Debug\netcoreapp3.1\practik.exe
+C:\Users\Administrator\Desktop\Practik\practik\practik\bin\Debug\netcoreapp3.1\practik.deps.json
+C:\Users\Administrator\Desktop\Practik\practik\practik\bin\Debug\netcoreapp3.1\practik.runtimeconfig.json
+C:\Users\Administrator\Desktop\Practik\practik\practik\bin\Debug\netcoreapp3.1\practik.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Practik\practik\practik\bin\Debug\netcoreapp3.1\practik.dll
+C:\Users\Administrator\Desktop\Practik\practik\practik\bin\Debug\netcoreapp3.1\practik.pdb
+C:\Users\Administrator\Desktop\Practik\practik\practik\obj\Debug\netcoreapp3.1\practik.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Practik\practik\practik\obj\Debug\netcoreapp3.1\practik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Practik\practik\practik\obj\Debug\netcoreapp3.1\practik.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Practik\practik\practik\obj\Debug\netcoreapp3.1\practik.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Practik\practik\practik\obj\Debug\netcoreapp3.1\practik.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Practik\practik\practik\obj\Debug\netcoreapp3.1\practik.dll
+C:\Users\Administrator\Desktop\Practik\practik\practik\obj\Debug\netcoreapp3.1\practik.pdb
+C:\Users\Administrator\Desktop\Practik\practik\practik\obj\Debug\netcoreapp3.1\practik.genruntimeconfig.cache

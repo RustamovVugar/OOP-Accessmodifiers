@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practik", "practik\practik.csproj", "{DE5B0E8B-4B4C-4919-895A-AF49416F532C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{63DE613C-591E-41FB-99E6-D2CB2CD20481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5B0E8B-4B4C-4919-895A-AF49416F532C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5B0E8B-4B4C-4919-895A-AF49416F532C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5B0E8B-4B4C-4919-895A-AF49416F532C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5B0E8B-4B4C-4919-895A-AF49416F532C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DE613C-591E-41FB-99E6-D2CB2CD20481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DE613C-591E-41FB-99E6-D2CB2CD20481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DE613C-591E-41FB-99E6-D2CB2CD20481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DE613C-591E-41FB-99E6-D2CB2CD20481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F476E998-CD0B-4D4C-9CD2-21CF43598E36}
+	EndGlobalSection
+EndGlobal
